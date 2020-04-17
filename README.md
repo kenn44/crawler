@@ -23,10 +23,11 @@ Litle interface to subscribe to a site
 - ABG
 - ONERA
 
-## Question
 ---
+## Question
 Some questions that I ask myself and I try to ans
 1. How work requirment.txt?
 2. What is a callback ?
 3. Asybscronous vs syncronous
 4. @classmethod
+5. In "git push -u" what is -u option for?
